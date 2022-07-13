@@ -11,4 +11,4 @@ Please fork this repo
 
 ## Copyright
 
-Copyright Notice
+Copyright Notice. All rights reserved.
