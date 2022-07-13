@@ -1,8 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work - demo change. 
-Additional line for rebasing, then
-more changes from myfeature branch
+Update for emergency fix after stashing. 
 
 ## Purpose
 
